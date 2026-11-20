@@ -137,6 +137,9 @@ The exact structure may change as more implementations are added.
 
 ## 🛠️ Language
 
+Author 
+Mohit Kunwar 
+
 **C++**
 
 All implementations are written for learning and practice purposes.
